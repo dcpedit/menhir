@@ -11,9 +11,9 @@ Source code is located in the `menhir` branch of my QMK fork:
 
 https://github.com/dcpedit/qmk_firmware/tree/menhir/keyboards/fruitykeeb/menhir
 
-`firmware/menhir_default.hex` - Port to QMK
-`firmware/menhir_via.hex` - Port to VIA
-`firmware/menhir_via.json` - VIA JSON file
+* `firmware/menhir_default.hex` - Port to QMK
+* `firmware/menhir_via.hex` - Port to VIA
+* `firmware/menhir_via.json` - VIA JSON file
 
 ## Original
 Files in the `stock` directory were downloaded directly from the Fruitykeeb discorder server: https://discord.gg/aD3mec3xP2
