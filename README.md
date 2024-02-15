@@ -1,6 +1,8 @@
 # Additional Files for Menhir Keyboard
 Here are some files I created for my custom Menhir build.
 
+![menhir](https://i.imgur.com/7StDPumh.jpeg)
+
 ## Plate
 `Menhir_PlasticPlate.ai` - Switch plate with leaf-mounts removed.  Intended for lasercutting 1.5mm arylic.
 
