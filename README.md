@@ -6,6 +6,8 @@ Here are some files I created for my custom Menhir build.
 ## Plate
 `Menhir_PlasticPlate.ai` - Switch plate with leaf-mounts removed.  Intended for lasercutting 1.5mm arylic.
 
+<img width="450" alt="switch_plate" src="https://github.com/dcpedit/menhir/assets/800930/8d488c28-0e1d-49cd-a7f1-5f8a15725e76">
+
 ## Firmware
 Source code is located in the `menhir` branch of my QMK fork:
 
